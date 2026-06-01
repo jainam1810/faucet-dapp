@@ -3,7 +3,7 @@
 This project is a simple Ethereum **Faucet** DApp and a **Direct ETH Transfer** interface built with **React** and **ethers.js**.
 
 It lets you:
-- ✅ Connect your MetaMask wallet to a local Hardhat test network.
+- Connect your MetaMask wallet to a local Hardhat test network.
 - ✅ Withdraw test ETH from your faucet smart contract (`withdraw` or `withdrawAll`).
 - ✅ Send ETH directly to any Ethereum address by choosing the amount.
 
