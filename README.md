@@ -89,4 +89,4 @@ Launches the test runner in the interactive watch mode.
 
 MIT - free to use & modify!
 
-Happy hacking! 🚀🧴
+Happy hacking!!!
