@@ -77,7 +77,7 @@ Launches the test runner in the interactive watch mode.
 
 ---
 
-## 📚 Learn More
+## Learn More
 
 - [Create React App Docs](https://facebook.github.io/create-react-app/docs/getting-started)
 - [React Documentation](https://reactjs.org/)
