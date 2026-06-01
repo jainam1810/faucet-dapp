@@ -85,7 +85,7 @@ Launches the test runner in the interactive watch mode.
 
 ---
 
-## 🔗 License
+## License
 
 MIT — free to use & modify!
 
