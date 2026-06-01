@@ -65,7 +65,7 @@ Launches the test runner in the interactive watch mode.
 - Enter any Ethereum address.
 - Enter the amount of ETH you want to send.
 - Click **Send ETH** → your wallet directly signs and broadcasts a normal ETH transaction.
-- ✅ The transaction will show up as a **“Send”** in MetaMask, not just as a contract interaction.
+- The transaction will show up as a **“Send”** in MetaMask, not just as a contract interaction.
 
 ---
 
