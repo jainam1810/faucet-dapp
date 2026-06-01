@@ -1,4 +1,4 @@
-# 🧴 Faucet DApp + Direct ETH Sender
+# Faucet DApp + Direct ETH Sender
 
 This project is a simple Ethereum **Faucet** DApp and a **Direct ETH Transfer** interface built with **React** and **ethers.js**.
 
