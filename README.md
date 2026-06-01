@@ -13,7 +13,7 @@ It lets you:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### 🏗️ Prerequisites
+### Prerequisites
 
 - [Node.js](https://nodejs.org/)
 - [MetaMask](https://metamask.io/)
