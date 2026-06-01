@@ -54,7 +54,7 @@ Launches the test runner in the interactive watch mode.
 
 ---
 
-## ⚙️ How it works
+## How it works
 
 1️⃣ **Faucet contract interaction**  
 - Connect your wallet (MetaMask must be set to your Hardhat local network).
