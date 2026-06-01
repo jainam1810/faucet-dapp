@@ -9,7 +9,7 @@ It lets you:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
