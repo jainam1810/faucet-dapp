@@ -87,6 +87,6 @@ Launches the test runner in the interactive watch mode.
 
 ## License
 
-MIT — free to use & modify!
+MIT - free to use & modify!
 
 Happy hacking! 🚀🧴
